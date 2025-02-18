@@ -12,3 +12,9 @@ This repository provides precompiled binaries of icy_tools.
 
 For more details, visit the icy_tools repository.
 - [icy_tools repository](https://github.com/mkrueger/icy_tools)
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/eduardocastillo1170) 
+
+![Visitas](https://komarev.com/ghpvc/?username=hellocodelinux&color=blue)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellocodelinux&show_icons=true&theme=dark)
