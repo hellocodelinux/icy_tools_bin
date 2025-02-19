@@ -10,8 +10,15 @@ This repository provides precompiled binaries of icy_tools.
 - **Icy Draw**: A drawing tool supporting various ANSI formats.
 - **Icy View**: A viewer to browse and view ANSI screens.
 
+### Issues and Support
+
+- If you have any questions, suggestions, or need the package for another distribution, feel free to leave an issue.
+
 For more details, visit the icy_tools repository.
 - [icy_tools repository](https://github.com/mkrueger/icy_tools)
+
+---
+<br>
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/eduardocastillo1170) 
 
