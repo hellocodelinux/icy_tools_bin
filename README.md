@@ -10,6 +10,12 @@ This repository provides precompiled binaries of icy_tools.
 - **Icy Draw**: A drawing tool supporting various ANSI formats.
 - **Icy View**: A viewer to browse and view ANSI screens.
 
+### Remember to have updated plugins
+
+```
+git clone https://github.com/hellocodelinux/plugins_icy_draw ~/.config/icy_draw/data/plugins
+```
+
 ### Issues and Support
 
 - If you have any questions, suggestions, or need the package for another distribution, feel free to leave an issue.
